@@ -39,7 +39,7 @@ The challenge runs from December 5th to January 5th, with an opportunity to join
 I will be updating this section daily with my progress and what I learned.
 
 ```plaintext
-Day 1/31: [Your update here]
+Day 1/31: Opened account and started first files
 Day 2/31: [Your update here]
 ...
 Day 31/31: [Your update here]
