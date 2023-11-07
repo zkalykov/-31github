@@ -1,5 +1,4 @@
-# -31github
-# Zhyrgalbek Kalykov's GitHub Challenge Journey - #31github #ghlchallenge
+# Zhyrgalbek Kalykov's GitHub Challenge Journey - #31github  #ghlchallenge
 
 Hello there! 👋
 
@@ -40,6 +39,3 @@ I will be updating this section daily with my progress and what I learned.
 
 ```plaintext
 Day 1/31: Opened account and started first files
-Day 2/31: [Your update here]
-...
-Day 31/31: [Your update here]
