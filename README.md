@@ -39,3 +39,4 @@ I will be updating this section daily with my progress and what I learned.
 
 ```plaintext
 Day 1/31: Opened account and started first files
+Day 2/31: Uploaded some my old c++ code files ) 
