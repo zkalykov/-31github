@@ -40,4 +40,5 @@ I will be updating this section daily with my progress and what I learned.
 ```plaintext
 Day 1/31: Opened account and started first files
 Day 2/31: Uploaded some my old c++ code files )
-Day 3/31: On progress : One Leetcode problem solution to upload
+Day 3/31: One Leetcode problem solution to upload ( 2849. Determine if a Cell Is Reachable at a Given Time )
+Day 4/31: waiting
