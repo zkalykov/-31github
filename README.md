@@ -27,12 +27,6 @@ The challenge runs from December 5th to January 5th, with an opportunity to join
 - I commit to publishing a screenshot of my repository progress on my Instagram page daily, using the hashtags #31github and #ghlchallenge and tagging @growthhungry and @dtaalai.
 - Ensure to maintain the stories on my Instagram account for 24 hours.
 
-## 🏆 Prize Categories
-
-- **First Place:** A brand-new MacBook Air.
-- **Second Place:** One-month membership in an exclusive club.
-- **Third Place:** Official Growthhungry merchandise for all who complete the challenge.
-
 ## 📈 Progress Tracker
 
 I will be updating this section daily with my progress and what I learned.
