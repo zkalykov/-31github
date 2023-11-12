@@ -37,3 +37,4 @@ Day 2/31: Uploaded some my old c++ code files )
 Day 3/31: One Leetcode problem solution to upload ( 2849. Determine if a Cell Is Reachable at a Given Time )
 Day 4/31: Learned : GIT. downloaded. Github repisotory cloned.
 Day 5/31: EXPLORED GITHUB : SETTINGS : ONE LEETCODE PROBLEM TRIED TO SOLVE BUT WAS TIME LIMIT, ANYWAY) I UPLOAEDED IT
+Day 6/31: FOLLOWED PEOPLE AND EXPLORED ONE MORE THING AND UPLAODED MY PROJECTS HERE)
