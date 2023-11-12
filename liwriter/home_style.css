@@ -1,0 +1,55 @@
+body{
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #888, #000);
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.main h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+ .photo {
+    width: 150px;
+    margin: 20px;
+    border-radius: 75px;
+}
+.scrollButton {
+    display: inline-block;
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+.scrollButton:hover {
+    background-color: #555;
+    transform: scale(1.05);
+}
+@media screen and (max-width: 800px) {
+    .photo {
+        width: 100px;
+        margin: 10px;
+        border-radius: 50px;
+    }
+    .main h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .scrollButton {
+        padding: 8px 16px;
+    }
+}
