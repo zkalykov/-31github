@@ -14,9 +14,7 @@
 
 ## Photos 📷
 
-- [University Image](https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg)
-- [Department Image]([url_to_department_image](https://www.na.edu/))
-
+- <img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg">
 ---
 
 ## Advice from One Semester 📝
