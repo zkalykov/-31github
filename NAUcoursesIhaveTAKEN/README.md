@@ -15,6 +15,7 @@
 ## Photos 📷
 
 <img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
+
 ---
 
 ### Fall 2023 Semester
