@@ -14,12 +14,9 @@
 
 ## Photos 📷
 
-- <img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
+<img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
 ---
-
-## Advice from One Semester 📝
-
-### Fall 2023 Semester
+## Fall 2023 Semester
 - **Communication Skills:** Join a speaking club or participate in group discussions to improve communication skills.
 - **Time Management:** Use a planner to manage assignments and study sessions effectively.
 - **Engage in Extracurriculars:** Explore campus events and clubs to meet new people and enhance your university experience.
