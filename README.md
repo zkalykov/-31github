@@ -40,3 +40,4 @@ Day 5/31: EXPLORED GITHUB : SETTINGS : ONE LEETCODE PROBLEM TRIED TO SOLVE BUT W
 Day 6/31: FOLLOWED PEOPLE AND EXPLORED ONE MORE THING AND UPLAODED MY PROJECTS HERE)
 Day 7/31: More exploration ) More interacting : changing some settings ) uploaded some files | committed
 Day 8/31: Watched video to make push and starting to learn it. Uploaded files and started using github as a place ot save my code ! Learned to open a project with friends
+Day 9/31: Added some useful sections for university students and some useful commands and committs. Learned wikis and insights )
