@@ -1,5 +1,3 @@
-# Readme File
-
 ## Personal Information
 - **Name:** Zhyrgalbek Kalykov
 - **University:** North American University
