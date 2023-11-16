@@ -42,3 +42,4 @@ Day 7/31: More exploration ) More interacting : changing some settings ) uploade
 Day 8/31: Watched video to make push and starting to learn it. Uploaded files and started using github as a place ot save my code ! Learned to open a project with friends
 Day 9/31: Added some useful sections for university students and some useful commands and committs. Learned wikis and insights )
 Day 10/31: Learned make a commit and push files to repisotory
+Day 11/31: Solved Leetcode question 1980. Find Unique Binary String and pushed here
