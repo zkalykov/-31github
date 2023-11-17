@@ -8,7 +8,7 @@
 | Year      | Course 1   | Course 2    | Course 3  | Course 4  | Course 5  | Total Credits |
 |-----------|------------|-------------|-----------|-----------|-----------|---------------|
 | Fall 2023 | COMM 1311 🗣️ | COMP 1411 💻 | ENGL R300 📖 | ENGL R301 📝 | FRSH 1311 🎉 | 16            |
-| PENDING | [Course1] | [Course2] | [Course3] | [Course4] | [Course5] | [Total2]       |
+| SPRING 2024 | COMP 2 | ART | COMP NET | DISCRET | STATISTIC | 16       |
 
 ## Photos 📷
 
