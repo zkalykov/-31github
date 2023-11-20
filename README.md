@@ -43,6 +43,3 @@ Day 8/31: Watched video to make push and starting to learn it. Uploaded files an
 Day 9/31: Added some useful sections for university students and some useful commands and committs. Learned wikis and insights )
 Day 10/31: Learned make a commit and push files to repisotory
 Day 11/31: Solved Leetcode question 1980. Find Unique Binary String and pushed here
-Day 12/31: Leetcode: 1877. Minimize Maximum Pair Sum in Array. Pushed element.
-Day 13/41: Leetcode: 1838. Frequency of the Most Frequent Element Solved.
-Day 14/41: Leetcode: 1887. Reduction Operations to Make the Array Elements Equal Solved;
