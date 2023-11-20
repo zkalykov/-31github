@@ -43,3 +43,7 @@ Day 8/31: Watched video to make push and starting to learn it. Uploaded files an
 Day 9/31: Added some useful sections for university students and some useful commands and committs. Learned wikis and insights )
 Day 10/31: Learned make a commit and push files to repisotory
 Day 11/31: Solved Leetcode question 1980. Find Unique Binary String and pushed here
+Day 12/31: Leetcode: 1877. Minimize Maximum Pair Sum in Array. Pushed element.
+Day 13/31: Leetcode: 1838. Frequency of the Most Frequent Element Solved.
+Day 14/31: Leetcode: 1743. Restore the Array From Adjacent Pairs.cpp
+Day 15/31: MIXED ( LEETCODE: 1887. Reduction Operation…e Array Elements Equal .cpp and 2391. Minimum Amount of Time to Collect Garbage.cpp
