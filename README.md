@@ -50,3 +50,4 @@ Day 15/31: MIXED ( LEETCODE: 1887. Reduction Operation…e Array Elements Equal 
 Day 16/31: Leetcode: 1814. Count Nice Pairs in an Array.cpp
 Day 17/31: LEETCODE: partial solution !
 Day 18/31: LEETCODE: Fully solved : 1424. Diagonal Traverse II
+Day 19/31: LEETCODE: 1561. Maximum Number of Coins You Can Get
