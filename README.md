@@ -52,3 +52,4 @@ Day 17/31: LEETCODE: partial solution !
 Day 18/31: LEETCODE: Fully solved : 1424. Diagonal Traverse II
 Day 19/31: LEETCODE: 1561. Maximum Number of Coins You Can Get
 Day 20/31: LEETCODE: 1685. Sum of Absolute Differences in a Sorted Array
+Day 21/31: Leetcode: 727. Largest Submatrix With Rearrangements solved
