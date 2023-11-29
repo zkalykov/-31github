@@ -55,3 +55,4 @@ Day 20/31: LEETCODE: 1685. Sum of Absolute Differences in a Sorted Array
 Day 21/31: Leetcode: 727. Largest Submatrix With Rearrangements solved
 Day 22/31: Leetcode: 935. Knight Dialer solved
 Day 23/31: Leetocde: 2147. Number of Ways to Divide a Long Corridor solved
+Day 24/41: Leetcode: 191. Number of 1 Bits solved
