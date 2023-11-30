@@ -56,4 +56,4 @@ Day 21/31: Leetcode: 727. Largest Submatrix With Rearrangements solved
 Day 22/31: Leetcode: 935. Knight Dialer solved
 Day 23/31: Leetocde: 2147. Number of Ways to Divide a Long Corridor solved
 Day 24/31: Leetcode: 191. Number of 1 Bits solved
-Day 25/31: Leetcode: 1611. Minimum One Bit Operations to Make Integers Zero Solved
+Day 25/31: Leetcode: 1611. Minimum One Bit Operations to Make Integers Zero Solved was hard question :)
