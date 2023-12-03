@@ -59,3 +59,4 @@ Day 24/31: Leetcode: 191. Number of 1 Bits solved
 Day 25/31: Leetcode: 1611. Minimum One Bit Operations to Make Integers Zero Solved was hard question :)
 Day 26/31: SETTINGS OF GITHUB AND RELAXATION 
 Day 27/31: COding PYTHON
+Day 28/31: Leetcode: 1266. Minimum Time Visiting All Points solved 
