@@ -61,3 +61,4 @@ Day 26/31: SETTINGS OF GITHUB AND RELAXATION
 Day 27/31: COding PYTHON
 Day 28/31: Leetcode: 1266. Minimum Time Visiting All Points solved 
 Day 29/31: Leetcode: 2264. Largest 3-Same-Digit Number in String  solved
+Day 30/31: Leetcode: 1688. Count of Matches in Tournament Solved !
