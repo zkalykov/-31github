@@ -58,7 +58,8 @@ Day 23/31: Leetocde: 2147. Number of Ways to Divide a Long Corridor solved
 Day 24/31: Leetcode: 191. Number of 1 Bits solved
 Day 25/31: Leetcode: 1611. Minimum One Bit Operations to Make Integers Zero Solved was hard question :)
 Day 26/31: SETTINGS OF GITHUB AND RELAXATION 
-Day 27/31: COding PYTHON
+Day 27/31: Coding PYTHON
 Day 28/31: Leetcode: 1266. Minimum Time Visiting All Points solved 
 Day 29/31: Leetcode: 2264. Largest 3-Same-Digit Number in String  solved
 Day 30/31: Leetcode: 1688. Count of Matches in Tournament Solved !
+Day 31/31: Leetcode: 1662. Check If Two String Arrays are Equivalent , Leetcode: 1716. Calculate Money in Leetcode Bank , Leetcode: 1160. Find Words That Can Be Formed by Characters
