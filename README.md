@@ -8,9 +8,6 @@ I am Zhyrgalbek Kalykov, and this is my official repository for the Growthhungry
 
 In this challenge organized by Growthhungry, participants are tasked with showcasing their commitment and skills by being active on GitHub for at least 31 out of 60 days. I will be documenting my journey, learning, and progress right here!
 
-## 📅 Challenge Period
-
-The challenge runs from December 5th to January 5th, with an opportunity to join from November 5th to November 25th.
 
 ## 🎯 Challenge Goals
 
