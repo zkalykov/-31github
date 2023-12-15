@@ -11,7 +11,6 @@
 | Fall 2023 | COMM 1311 🗣️ | COMP 1411 💻 | ENGL R300 📖 | ENGL R301 📝 | FRSH 1311 🎉 | 16            |
 | SPRING 2024 | COMP 2 | ART | COMP NET | DISCRET | STATISTIC | 16       |
 
-## Photos 📷
 
 <img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
 
