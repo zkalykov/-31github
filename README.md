@@ -9,13 +9,6 @@ I am Zhyrgalbek Kalykov, and this is my official repository for the Growthhungry
 In this challenge organized by Growthhungry, participants are tasked with showcasing their commitment and skills by being active on GitHub for at least 31 out of 60 days. I will be documenting my journey, learning, and progress right here!
 
 
-## 🎯 Challenge Goals
-
-- [x] Follow @growthhungry and @dtaalai on Instagram.
-- [x] Mention three friends in the comment section who I want to take this challenge with.
-- [x] Fill out the Google form at the beginning and end of the challenge.
-- [x] Join the Telegram chat for continuous communication.
-- [x] Be active on my personal GitHub account and contribute to this repository (#31github) regularly.
 
 ## ✨ Participation Rules
 
