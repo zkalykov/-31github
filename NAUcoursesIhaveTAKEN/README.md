@@ -4,12 +4,26 @@
 - **Department:** Computer Science
 
 ## Courses and Credits Overview 📚
+# Academic Schedule
 
-| Year      | Course 1   | Course 2    | Course 3  | Course 4  | Course 5  | Total Credits |
-|-----------|------------|-------------|-----------|-----------|-----------|---------------|
-| CLEP | MATH 1311 ongoing  |   |    |   |   |             |
-| Fall 2023 | COMM 1311 🗣️ | COMP 1411 💻 | ENGL R300 📖 | ENGL R301 📝 | FRSH 1311 🎉 | 16            |
-| SPRING 2024 | COMP 2 | ART | COMP NET | DISCRET | STATISTIC | 16       |
+Below is the comprehensive academic schedule including courses taken through CLEP, regular semesters, and summer sessions.
+
+| Year             | Course 1   | Course 2   | Course 3   | Course 4   | Course 5   | Course 6  | Total Credits |
+|------------------|------------|------------|------------|------------|------------|-----------|---------------|
+| CLEP             | ENGL 1311  | MATH 1311  | MATH 1313  | MATH 2314  | BIOL 1311  | HIST 1311 | 18            |
+| Fall 2023        | COMM 1311  | COMP 1411  | ENGL R300  | ENGL R301  | FRSH 1311  |           | 16            |
+| SPRING 2024      | ART 1311   | SPANISH    | COMP 1412  | COMP 1314  |            |           | 13            |
+| Summer I 2024   | Internship |            |            |            |            |           | 3             |
+| Summer II 2024  | COMP 2313  | COMP 3322  | GOVT 2311  | MATH 1312  | MATH 2317  |           | -      |
+| Summer II 2024 | COMP 3317  | ENGL 1312  | ECON 2312  | COMP 2316  | COMP 3324  |           |    -   |
+| Fall 2024        | COMP 3318  | COMP 3326  | COMP 4339  | COMP 4356  | COMP 3321  |           | -            |
+| Spring 2025      | COMP 2415  | COMP 3320  | COMP 4342  | COMP 4353  | COMP 4393  |           | 16            |
+| Summer I 2025   |            |            |            |            |            |           | 0             |
+| Summer II 2025    | Internship |            |            |            |            |           | 3             |
+| **Total**        |            |            |            |            |            |           | **114**       |
+
+Note: The total credits for Summer I 2024 and Summer II 2024 are adjusted to reflect the additional courses added.
+
 
 
 <img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
