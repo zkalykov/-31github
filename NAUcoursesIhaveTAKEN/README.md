@@ -1,14 +1,3 @@
-## Personal Information
-- **Name:** Zhyrgalbek Kalykov
-- **University:** North American University
-- **Department:** Computer Science
-
-## Courses and Credits Overview 📚
-# Academic Schedule
-
-Below is the comprehensive academic schedule including courses taken through CLEP, regular semesters, and summer sessions.
-
-
 # Academic Coursework
 
 | # | 1 | 2 | 3 | 4 | 5 | 6 | Credits Earned |
@@ -34,8 +23,7 @@ Note: The total credits for Summer I 2024 and Summer II 2024 are adjusted to ref
 
 
 
-<img src="https://www.na.edu/wp-content/uploads/2019/10/HOMEPAGE-2.jpg" style="width:50%;height:50%">
-
+ 
 ---
 
 ### Fall 2023 Semester
