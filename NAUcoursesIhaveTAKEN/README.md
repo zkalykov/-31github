@@ -22,7 +22,7 @@
 Note: The total credits for Summer I 2024 and Summer II 2024 are adjusted to reflect the additional courses added.
 
 
-
+<img src="https://picsum.photos/500/500"/>
  
 ---
 
